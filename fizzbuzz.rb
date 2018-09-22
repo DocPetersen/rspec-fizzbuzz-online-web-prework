@@ -13,6 +13,6 @@ def fizzbuzz(int)
     print fizz_15
     
   else 
-    ArgumentError
+    print nil
   end
 end
