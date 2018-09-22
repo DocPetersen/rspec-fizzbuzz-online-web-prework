@@ -8,7 +8,7 @@ def fizzbuzz(int)
     fizzbuzz(5) == "Buzz"
     print fizz_5
     
-  elsif int % 3 && int % 5 == 0 
+  elsif int % 3 == 0 && int % 5 == 0 
     fizzbuzz(15) == "FizzBuzz"
     print fizz_15
     
